@@ -1,105 +1,18 @@
-<!-- #######  YAY, I AM THE SOURCE EDITOR! #########-->
-<h1 style="color: #5e9ca0;"><a href="https://flexloo.com/products/embroidery-studio">You can edit <span style="color: #2b2301;">this demo</span> text!</a></h1>
-<h2 style="color: #2e6c80;">How to use the editor:</h2>
-<p>Paste your documents in the visual editor on the left or your HTML code in the source editor in the right. <br />Edit any of the two areas and see the other changing in real time.&nbsp;</p>
-<p>Click the <span style="background-color: #2b2301; color: #fff; display: inline-block; padding: 3px 10px; font-weight: bold; border-radius: 5px;">Clean</span> button to clean your source code.</p>
-<h2 style="color: #2e6c80;">Some useful features:</h2>
-<ol style="list-style: none; font-size: 14px; line-height: 32px; font-weight: bold;">
-<li style="clear: both;"><img style="float: left;" src="https://html-online.com/img/01-interactive-connection.png" alt="interactive connection" width="45" /> Interactive source editor</li>
-<li style="clear: both;"><img style="float: left;" src="https://html-online.com/img/02-html-clean.png" alt="html cleaner" width="45" /> HTML Cleaning</li>
-<li style="clear: both;"><img style="float: left;" src="https://html-online.com/img/03-docs-to-html.png" alt="Word to html" width="45" /> Word to HTML conversion</li>
-<li style="clear: both;"><img style="float: left;" src="https://html-online.com/img/04-replace.png" alt="replace text" width="45" /> Find and Replace</li>
-<li style="clear: both;"><img style="float: left;" src="https://html-online.com/img/05-gibberish.png" alt="gibberish" width="45" /> Lorem-Ipsum generator</li>
-<li style="clear: both;"><img style="float: left;" src="https://html-online.com/img/6-table-div-html.png" alt="html table div" width="45" /> Table to DIV conversion</li>
-</ol>
-<p>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;</p>
-<h2 style="color: #2e6c80;">Cleaning options:</h2>
-<table class="editorDemoTable">
-<thead>
-<tr>
-<td>Name of the feature</td>
-<td>Example</td>
-<td>Default</td>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td>Remove tag attributes</td>
-<td><img style="margin: 1px 15px;" src="images/smiley.png" alt="laughing" width="40" height="16" /> (except <strong>img</strong>-<em>src</em> and <strong>a</strong>-<em>href</em>)</td>
-<td>&nbsp;</td>
-</tr>
-<tr>
-<td>Remove inline styles</td>
-<td><span style="color: green; font-size: 13px;">You <strong style="color: blue; text-decoration: underline;">should never</strong>&nbsp;use inline styles!</span></td>
-<td><strong style="font-size: 17px; color: #2b2301;">x</strong></td>
-</tr>
-<tr>
-<td>Remove classes and IDs</td>
-<td><span id="demoId">Use classes to <strong class="demoClass">style everything</strong>.</span></td>
-<td><strong style="font-size: 17px; color: #2b2301;">x</strong></td>
-</tr>
-<tr>
-<td>Remove all tags</td>
-<td>This leaves <strong style="color: blue;">only the plain</strong> <em>text</em>. <img style="margin: 1px;" src="images/smiley.png" alt="laughing" width="16" height="16" /></td>
-<td>&nbsp;</td>
-</tr>
-<tr>
-<td>Remove successive &amp;nbsp;s</td>
-<td>Never use non-breaking spaces&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;to set margins.</td>
-<td><strong style="font-size: 17px; color: #2b2301;">x</strong></td>
-</tr>
-<tr>
-<td>Remove empty tags</td>
-<td>Empty tags should go!</td>
-<td>&nbsp;</td>
-</tr>
-<tr>
-<td>Remove tags with one &amp;nbsp;</td>
-<td>This makes&nbsp;no sense!</td>
-<td><strong style="font-size: 17px; color: #2b2301;">x</strong></td>
-</tr>
-<tr>
-<td>Remove span tags</td>
-<td>Span tags with <span style="color: green; font-size: 13px;">all styles</span></td>
-<td><strong style="font-size: 17px; color: #2b2301;">x</strong></td>
-</tr>
-<tr>
-<td>Remove images</td>
-<td>I am an image: <img src="images/smiley.png" alt="laughing" /></td>
-<td>&nbsp;</td>
-</tr>
-<tr>
-<td>Remove links</td>
-<td><a href="https://html-online.com" rel="nofollow">This is</a> a link.</td>
-<td>&nbsp;</td>
-</tr>
-<tr>
-<td>Remove tables</td>
-<td>Takes everything out of the table.</td>
-<td>&nbsp;</td>
-</tr>
-<tr>
-<td>Replace table tags with structured divs</td>
-<td>This text is inside a table.</td>
-<td>&nbsp;</td>
-</tr>
-<tr>
-<td>Remove comments</td>
-<td>This is only visible in the source editor <!-- HELLO! --></td>
-<td><strong style="font-size: 17px; color: #2b2301;">x</strong></td>
-</tr>
-<tr>
-<td>Encode special characters</td>
-<td><span style="color: red; font-size: 17px;">&hearts;</span> <strong style="font-size: 20px;">☺ ★</strong> &gt;&lt;</td>
-<td><strong style="font-size: 17px; color: #2b2301;">x</strong></td>
-</tr>
-<tr>
-<td>Set new lines and text indents</td>
-<td>Organize the tags in a nice tree view.</td>
-<td>&nbsp;</td>
-</tr>
-</tbody>
-</table>
-<p><strong>&nbsp;</strong></p>
-<p><strong>Save this link into your bookmarks and share it with your friends. It is all FREE! </strong><br /><strong>Enjoy!</strong></p>
-<p><strong>&nbsp;</strong></p>
+<div style="text-align: center;"><span class="yiv9260854663textLarge yiv9260854663monoBlack" style="font-size: 14px; font-weight: bold; padding: 0 0 4px;"><img src="https://gitdi.com/images/image%20gitdi%20news/cartt.png?1594821147443" alt="cartt.png?1594821147443" width="55" height="55" /> </span></div>
+<div style="text-align: center;"> </div>
+<div style="text-align: center;"><span class="yiv9260854663textLarge yiv9260854663monoBlack" style="font-size: 14px; font-weight: bold; padding: 0 0 4px;">Daily Digital Goods </span></div>
+<div style="text-align: center;"> </div>
+<div style="text-align: center;"> </div>
+<div style="text-align: center;"><a href="https://bit.ly/3oTMiC5" target="_blank" rel="noopener"><img src="https://shopping.googleusercontent.com/image?q=AJqGhtVohI5GFafO7fsUkoqypxgOll02IyUk80U0jOe6xaKBsfJgUV0uqIO_XJ2xjyryngdrwjAPRS4GfJId" alt="" width="220" height="230" /></a></div>
+<div style="text-align: center;"> </div>
+<div style="text-align: center;">
+<h1 class="ty-product-block-title"><span style="font-size: 12pt; color: #0000ff;">Adobe Master Collection 2021✔ Lifetime ✔ Full version </span><span style="font-size: 12pt; color: #0000ff;">(For Windows) </span><span style="font-size: 14pt;"><span style="color: #0000ff; font-size: 12pt;">✅</span> </span></h1>
+<p><span style="font-size: 14pt;">Price: <span style="color: #0000ff;">60$</span></span></p>
+<p> </p>
+<p><span style="font-size: 14pt;"><span><strong>Package Content:</strong><br /><br />Adobe Acrobat Pro DC 2021<br />Adobe After Effects 2021<br />Adobe Animate 2021<br />Adobe Audition 2021<br />Adobe Bridge 2021<br />Adobe Character Animator 2021<br />Adobe Dimension<br />Adobe Dreamweaver 2021<br />Adobe Fresco<br />Adobe Fuse<br />Adobe Illustrator 2021<br />Adobe InCopy 2021<br />Adobe InDesign 2021<br />Adobe Lightroom Classic<br />Adobe Media Encoder 2021<br />Adobe Photoshop 2021<br />Adobe Prelude 2021<br />Adobe Premiere Pro 2021<br />Adobe Premiere Rush<br />Adobe XD<br /><br /><br />Give your personality, quality and stylish life</span></span></p>
+<p> </p>
+<p> </p>
+<div style="color: #565a5d; font-family: 'Open Sans', Helvetica, Arial, 'sans serif'; font-size: 14px; line-height: 160%; text-align: center;"> </div>
+   
+<div style="color: #565a5d; font-family: 'Open Sans', Helvetica, Arial, 'sans serif'; font-size: 14px; line-height: 160%; text-align: center;">Made for you with <img src="https://ecp.yusercontent.com/mail?url=https%3A%2F%2Fappboy-images.com%2Fappboy%2Fcommunication%2Fassets%2Fimage_assets%2Fimages%2F5e0190dc6a8d637c8dd20cff%2Foriginal.png%3F1577160924&amp;t=1594818920&amp;ymreqid=86dc76c7-0ae1-1256-1c4c-240005014100&amp;sig=J9Z8vOuZDdsEYt28enJMBA--~D" alt="love" /> from Gitdi<br /><a href="https://gitdi.com/">Gitdi</a> ®, 3993 Hanover Street,<br />New York, NY 10016, US</div>
+</div>
